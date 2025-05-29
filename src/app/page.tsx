@@ -774,7 +774,7 @@ const MathTutorLandingPage = () => {
                     <Mail className="text-purple-600 mr-4 h-6 w-6" />
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-gray-600">kontakt@weronika-matematyka.pl</p>
+                      <p className="text-gray-600">kontakt@weronikaciesielska.com</p>
                     </div>
                   </div>
                   <div className="flex items-center">
@@ -920,8 +920,8 @@ const MathTutorLandingPage = () => {
             <div>
               <h4 className="text-lg font-bold mb-4">Kontakt</h4>
               <ul className="space-y-2 text-purple-200">
-                <li>Email: kontakt@weronika-matematyka.pl</li>
-                <li>Telefon: +48 500 600 700</li>
+                <li>Email: kontakt@weronikaciesielska.com,</li>
+                <li>Telefon: +48 665 447 951</li>
                 <li>Godziny: Pon-Pt: 10:00-20:00</li>
               </ul>
             </div>
